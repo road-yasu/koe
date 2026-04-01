@@ -6,7 +6,7 @@ dependencies:
   - python=3.11
   - streamlit=1.55
   - pandas=2.3
-  - pip=26.0
   - python-dotenv=1.2
   - requests=2.33
   - psycopg=3.3
+  - pip=26.0
